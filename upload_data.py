@@ -3,7 +3,7 @@ import pandas as pd
 import json
 
 #url
-uri="mongodb+srv://ramayadav:ramayadav@cluster0.ix8bt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+uri="..."
 
 #create a new client and connectt to server
 client = MongoClient(uri)
